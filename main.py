@@ -1,7 +1,7 @@
-from segmentation_package.load_data import load_data
-from segmentation_package.scaler import scale_data
-from segmentation_package.model import train_model
-from segmentation_package.output import output_data
+from functions.load_data import load_data
+from functions.scaler import scale_data
+from functions.model import train_model
+from functions.output import output_data
 import yaml
 
 # Loads the config file
