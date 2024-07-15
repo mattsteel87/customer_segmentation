@@ -1,2 +1,1 @@
-# customer_segmentation
-# customer_segmentation
+# customer segmentation model
